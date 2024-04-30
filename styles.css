@@ -91,6 +91,7 @@ h1{
     background-color: transparent; 
     outline: none;
     border: none;
+    cursor: pointer;
 }
 
 .Display-container button span{
